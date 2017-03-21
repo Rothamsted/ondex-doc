@@ -13,6 +13,8 @@
 				<include>tutorial/english/*.pdf</include>
 				<include>help/english/**/*</include>
 			</includes>
+      <fileMode>0644</fileMode>
+			<directoryMode>0755</directoryMode>      			
 		</fileSet>
 		<fileSet>
 			<directory>target/docbkx/javahelp/help</directory>
@@ -20,6 +22,8 @@
 			<includes>
 				<include>**/*</include>
 			</includes>
+      <fileMode>0644</fileMode>
+			<directoryMode>0755</directoryMode>      			
 		</fileSet>
 		<fileSet>
 			<directory>target</directory>
@@ -27,6 +31,8 @@
 			<includes>
 				<include>user_guide_master.pdf</include>
 			</includes>
+      <fileMode>0644</fileMode>
+			<directoryMode>0755</directoryMode>      			
 		</fileSet>
 	</fileSets>
 </assembly>
