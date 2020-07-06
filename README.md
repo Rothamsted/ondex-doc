@@ -1,5 +1,6 @@
 # ONDEX Documentation
 
-This repository contains several documents and tutorial materials about [ONDEX](http://www.ondex.org/) and 
-[KNetMiner](http://knetminer.rothamsted.ac.uk/).
+This is old documentation about [Ondex][10] and [Knetminer][20]. Now we maintain docs on the respective wikis.
 
+10: https://github.com/Rothamsted/ondex-knet-builder
+20: https://www.knetminer.org
